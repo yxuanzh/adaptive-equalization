@@ -1,0 +1,1 @@
+input dimension should expand to 3
